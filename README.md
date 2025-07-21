@@ -4,6 +4,6 @@ Farmers often have limited control over their use of fertilizers, but they can a
 PROPOSED SYSTEM ARCHITECTURE 
   
  	                                                 System Architecture 
-                                  <img src="https://github.com/user-attachments/assets/dfa8b6b5-d4aa-4c67-b95a-1522fb513478" width="800" alt="System Architecture>
+                                  <img src="https://github.com/user-attachments/assets/dfa8b6b5-d4aa-4c67-b95a-1522fb513478" width="800" alt="System Architecture" />
 
 Description: The above shows the system architecture of our model. To develop the model, we should first collect the data required and separate the data into trained dataset and the test dataset and data pre processing should be performed. The weather API is connected to the model to collect the weather data then by using Random Forest algorithm the model is developed and the results analysis will be done.
